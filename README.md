@@ -1,1 +1,1 @@
-These code are for practice only
+These codes are for practice only
